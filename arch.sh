@@ -13,7 +13,7 @@ cat <<EOL
 					   
 			====================================================
 			
-			==> Autor: leo.arch <leo.arch@bol.com.br>
+			==> Autor: leo
 			==> Script: arch.sh v1.0
 			==> Descrição: Instalador Automático Arch Linux
 			
